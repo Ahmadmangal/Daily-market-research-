@@ -1,58 +1,28 @@
-# Daily Macro Note — 2025-08-22
+# Daily Market Research — August 22, 2025  
 *Uploaded on Aug 23 PKT*
-**Author:** Muhammad Ahmad.
-**Time Zone:** PKT (7pm)
+*Author Muhammad Ahmad
 
-*Note: This was written shortly after Powell’s Jackson Hole speech on Aug 22 (PKT). Markets had already reacted by the time of posting; analysis focuses on the policy signal and forward implications.*
+## Market Recap  
+Market tone is cautious ahead of Powell’s closely watched Jackson Hole speech.  
 
----
+U.S. 10-year Treasury yields are rising, reflecting uncertainty over impending rate policy.  
 
-## Executive Summary (3 lines)
-- Powell opened the door to a **September rate cut**, citing a “curious balance” in the labor market (both supply and demand weakening).  
-- Tariff-driven inflation described as likely **transitory**, lowering structural inflation concern.  
-- Market reaction: **2Y ≈ -10 bps, 10Y ≈ -7 bps**; equities rallied and the USD softened.
+Indian markets slipped sharply, with Sensex down 500 points and Nifty falling below 25,000.  
 
----
+## Focus: Powell’s Speech at Jackson Hole  
+Fed Chair Jerome Powell delivers his final Jackson Hole address amid high expectations around rate-cut signals and macro-policy clarity.  
 
-## Market Recap (short, numeric)
-- **US 2Y:** down ~10 bps → ~3.69% (post-speech)  
-- **US 10Y:** down ~7 bps → ~4.26% (post-speech)  
-- **S&P 500:** rallied (broad gains)  
-- **Gold:** modest rally as real-rates eased
+Markets are pricing in around a 75% probability of a September rate cut, though several Fed officials remain lukewarm.  
 
----
+Key uncertainties include sticky core inflation, slowing job growth, and political pressure — especially from Trump.  
 
-## Key Highlights
-- “**Curious balance**” in labor: Powell flagged downside risk to jobs (dovish tilt).  
-- Tariff-driven inflation seen as temporary.  
-- Subtle move away from strict FAIT language toward a **more preemptive, data-dependent** framework.
+## Elements of Market Sensitivity  
+- Gold slipped ~0.3% as a firm dollar and rate caution weighed on demand.  
+- Forex & stocks remain volatile — investors watching Powell’s tone for clues on future policy direction.  
 
----
+## Quick Insight  
+Powell’s speech could either reaffirm hawkish caution or inch the Fed toward easing. Markets have already edged lower, preparing for either outcome — but any soft tone may reignite rate-cut bets, especially for September.  
 
-## Market Implications
-- **Short end (2Y)** is most sensitive → watch for further compression if jobs/inflation weaken.  
-- **Curve:** front-end may fall faster (flattening or complex moves depending on growth expectations).  
-- **Risk assets:** equities/credit bid on cut odds; but inflation surprises would reverse moves.  
-- **FX:** USD weaker on easing bets; EM/periphery may rally but watch any risk-off reversal.
-
----
-
-## If / Then (trade-facing)
-- **If** jobs soften & data confirm → front-end yields drop further; equities/gold rally.  
-- **If** CPI/PCE surprise higher → cut odds fall and yields may bounce.  
-- **If** Fed officials push back → quick volatility in yields/equities.
-
----
-
-## What to Watch Next
-- Monthly **NFP** / unemployment (confirm labor outlook)  
-- **CPI** & **PCE** prints (inflation confirmation)  
-- Intraday levels: 2Y ≈ 3.7% and 10Y ≈ 4.25% — breaks through these mark repricing
-
----
-
-## Quick Takeaway
-Powell’s speech opened the door to easing but it’s **conditional**: markets priced the talk immediately; now data must deliver.
-
----
-**Sources:** Reuters, WSJ, Fed transcript, market snapshots (add exact links when you post).
+## If/Then Scenarios  
+- **If Powell sounds dovish (rate cuts sooner)** → 10Y yields likely drift toward 3.80%, gold strengthens, dollar softens.  
+- **If Powell stays hawkish (no cut signals)** → yields stay elevated near 4.0%, equities could face more pressure, USD remains firm.
