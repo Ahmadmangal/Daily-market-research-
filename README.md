@@ -1,19 +1,23 @@
 # Daily Market Research — 2025-08-22
 
-## Market Recap (1–3 bullets)
--
+## Market Recap
+- U.S. 10-year yields rose as markets await Powell’s Jackson Hole speech.
+- Indian markets slipped; Sensex -500 pts, Nifty <25,000.
 
-## Macro Focus (CPI/PPI/ISM/Fed/etc.)
--
+## Macro Focus
+- Powell expected to give clarity on rate cuts.
+- Fed officials still cautious despite 75% probability of Sept cut.
 
-## Microstructure Note (order flow / spreads / options skew)
--
+## Microstructure Note
+- Treasury futures showed wider bid-ask spreads pre-speech.
+- Options skew pricing higher downside risk in equities.
 
-## Quant Insight (small analysis or chart summary)
-- e.g., “PCA shows parallel shift; PC1 ≈ 88% variance”
+## Quant Insight
+- Curve flattening in 2s10s spread (~-20 bps).
 
-## Scenario Map (no trading calls, just logic)
-- If X → Y; else → Z
+## Scenario Map
+- If Powell hawkish → yields rise further, equities drop.
+- If Powell dovish → yields fall, risk assets rally.
 
-## Reflection (1–2 lines)
--
+## Reflection
+- Markets positioned cautiously; volatility expected post-speech.
