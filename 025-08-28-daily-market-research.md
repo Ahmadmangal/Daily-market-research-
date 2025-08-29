@@ -1,6 +1,6 @@
 ---
 title: "Daily Market Research"
-date: 2025-08-28
+date: 2025-08-29
 researcher: "Muhammad Ahmad"
 markets: ["SPX", "NDX", "DJIA", "US10Y"]
 tags: ["macro", "equities", "bonds", "AI", "tariffs"]
