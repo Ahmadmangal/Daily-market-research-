@@ -2,13 +2,12 @@
 title: "Daily Market Research"
 date: 2025-09-03
 uploaded: 2025-09-04
-researcher: "Muhammad Ahmad"
+researcher: "Muhammad Ahmad" 
 markets: ["SPX", "NDX", "GOOGL", "AAPL", "Gold", "US10Y"]
 tags: ["equities", "antitrust", "Fed", "risk sentiment", "safe-haven"]
 summary: "S&P +0.5%, Nasdaq +1%, fueled by Alphabet’s rally after antitrust relief. Gold, yields, and risk tone shift ahead of jobs data."
 ---# Daily Market Research — September 3, 2025  
 *Uploaded on Sep 4 PKT*
-
 ---
 
 ## Market Recap
