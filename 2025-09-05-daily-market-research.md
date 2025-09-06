@@ -11,7 +11,7 @@ summary: "Soft August jobs (NFP +22k, jobless 4.3%) swung markets: stocks faded 
 *Uploaded Sep 6 (PKT)*
 
 ## Market Recap
-- **S&P 500** −0.3% to **6,481.5**; **Nasdaq** ~flat; **Dow** −0.5%. Small caps outperformed (**R2000** +0.5%). Stocks briefly hit fresh records intraday before fading on growth worries. (AP recap) 0  
+- **S&P 500** −0.3% to **6,481.5**; **Nasdaq** ~flat; **Dow** −0.5%. Small caps outperformed (**R2000** +0.5%). Stocks briefly hit fresh records intraday before fading on growth worries. (AP recap)   
 - **U.S. yields** fell on weak labor data: **2Y −~6 bps**, **10Y −~8 bps** into the close. (Reuters)   
 - **Gold** surged to a **new record near $3,600/oz** as rate-cut bets firmed. (Reuters)
 
