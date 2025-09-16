@@ -37,3 +37,4 @@ summary: "Stocks hit new records ahead of a key Fed meeting; gold surged on weak
 - Fed meeting & Powell’s statement, especially projections and dot plot.  
 - Core PCE inflation & services inflation data.  
 - U.S.-China trade developments & regulatory actions vs key tech firms.
+- *Note: This report is based on my independent market research. Formatting and language refinement are assisted by digital tools for clarity.*
