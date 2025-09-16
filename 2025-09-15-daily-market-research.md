@@ -23,7 +23,7 @@ summary: "Stocks hit new records ahead of a key Fed meeting; gold surged on weak
 - Inflation remains sticky in core areas, though wholesale price metrics showed some easing. Labor market data continues to reflect cooling dynamics.   
 
 ## Currencies & Yields  
-- The U.S. dollar fell to a ~2.5-month low vs the euro, driven by rate cut anticipation. 6  
+- The U.S. dollar fell to a ~2.5-month low vs the euro, driven by rate cut anticipation.  
 - Yields on U.S. Treasuries declined slightly, especially at the long end, reflecting heightened demand for bonds and reduced yield expectations.   
 
 ## Key Stock Movers  
