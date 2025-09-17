@@ -31,7 +31,7 @@ summary: "Tech led markets as rate-cut expectations persisted; bonds attracted d
 - **Gold vs Real Yields:** Gold appreciation correlates with falling real yields and USD weakness — a dynamic playing out this week.  
 - **FX & EM:** Dollar softness provided relief for EM assets, though flows remain selective.
 
-## If / Then (scenarios)
+## If / Then
 - **If** upcoming core inflation prints soften → market will likely push earlier and larger Fed cuts into prices → equities and gold extend gains, yields fall further.  
 - **If** inflation or payroll data surprise hot → yields spike, dollar strengthens and tech leadership would be at risk.
 
