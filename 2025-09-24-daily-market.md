@@ -1,28 +1,38 @@
 ---
-title: "Daily Market Report — September 24, 2025"
-date: 2025-09-24
-analyst: "Muhammad Ahmad"
-tags: ["equities", "Fed", "bonds", "commodities", "microstructure"]
+title: "Daily Market Research — Sep 23, 2025"
+date: 2025-09-23
+uploaded: 2025-09-24
+researcher: "Muhammad Ahmad"
+markets: ["SPX","NDX","DJI","Gold","WTI","US10Y","DXY"]
+tags: ["Fed remarks","market pullback","tech weakness","oil","yields"]
+summary: "Markets slipped after Powell’s cautious remarks; risk assets pulled back, tech led the decline; oil traded near $63.6; gold eased from yesterday's highs."
+---
+# Daily Market Research — September 23, 2025  
+*Uploaded Sep 24 PKT — researcher: Muhammad Ahmad*
+
+## Market Recap
+- **S&P 500** fell **~0.6%**, giving back recent gains as investors reassessed Powell’s post-cut comments.  
+- **Nasdaq Composite / NDX** dropped **~0.9%**, led lower by large-cap tech weakness after Powell warned valuations were “fairly highly valued.”  
+- **Dow Jones** slipped **~0.2%**, with industrials and cyclicals under pressure amid the risk-off tone. 
+
+## Macro drivers
+- **Powell / Fed tone:** Powell struck a cautious tone about inflation risks and the path forward despite the recent 25bp cut; his remarks reduced conviction that the Fed will move quickly to cut further, prompting a short-term risk repricing.   
+- **Bond demand / yields:** Safe-haven buying earlier pressured yields slightly, but with mixed intraday flows as markets digested Powell’s comments. 
+
+## Commodities & FX
+- **WTI crude (front)** traded around **$63.6/bbl** after U.S. inventory data showed draws and ongoing supply concerns; Brent around $67.8. Oil was supported but remained range-bound.  
+- **Gold** eased modestly from record levels reached previously as the dollar and yields stabilized.   
+- **Dollar (DXY)** firmed slightly on a risk-off tilt after the Fed comments.
+
+## Microstructure / Flow Notes
+- **Liquidity:** Post-Powell, the order book thinned in the first few minutes — larger prints moved indices more than usual (classic thin-book post-event behavior).  
+- **Options/Skew:** Tech names saw a pick-up in put buying and higher skew, increasing downside gamma for dealers and amplifying intraday selling pressure. (Observation based on traded flows / options tape.)
+
+## Cross-Asset Read-through
+- **Risk repricing:** Powell’s cautious phrasing trimmed appetite for the higher-valuation, rate-sensitive growth cohort while supporting modest flows into perceived cyclicals/defensives.  
+- **Watch list:** upcoming CPI/PCE print will be market-moving — a hotter print would likely push yields up and deepen the equity pullback.
+
 ---
 
-### U.S. Markets
-- **S&P 500 (SPX)**: ▲ 0.41% — lifted by energy and financials as investors rotated out of megacap tech.  
-- **Nasdaq-100 (NDX)**: ▲ 0.52% — modest rebound after recent profit-taking; **Nvidia** gained 2.3% on renewed AI optimism.  
-- **Dow Jones (DJI)**: ▲ 0.28% — steady blue-chip demand as defensive sectors held firm.
-
-### Bonds & Rates
-- **10-Year Treasury Yield**: slipped 2 bps to 3.68% as traders priced in higher odds of another Fed cut in November.  
-- Curve remains inverted but continues to **steepen** as front-end yields fall faster than the long end — a classic late-cycle signal.
-
-### Commodities
-- **Gold (XAU/USD)**: ▲ 0.4% to $2,360/oz, supported by a softer dollar and falling real yields.  
-- **WTI Crude Oil**: ▲ 1.1% to $81.70/bbl after U.S. inventory draws and fresh OPEC+ supply talk.
-
-### Macro Drivers
-- **Fed Speak**: Several FOMC members hinted that September’s 25 bps cut is “not the last,” keeping futures markets pricing a ~65% chance of another cut in November.  
-- **Housing Data**: August new-home sales came in weaker than expected, reinforcing the soft-landing narrative and supporting bonds.
-
-### Microstructure Note
-- Futures order books showed **thinner depth on the S&P e-mini** during early New York hours, amplifying price moves on modest flows — a sign of cautious liquidity provision ahead of Friday’s PCE inflation release.
-
-> **Note**: Raw market and economic data were sourced from Bloomberg, FRED, and exchange feeds, then refined using analytical tools for clarity and precision.
+**Methodology & Transparency:**  
+This note is derived from primary market moves, official Fed commentary and exchange/price feeds, and refined for clarity using digital tools. Core analysis is independently researched; formatting and links are tool-assisted.
