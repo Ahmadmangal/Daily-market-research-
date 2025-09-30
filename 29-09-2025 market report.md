@@ -10,7 +10,7 @@ summary: "Risk-on tone: U.S. indices ticked higher as the dollar softened; commo
 # Daily Market Research — September 29, 2025  
 *Uploaded Sep 30 PKT — researcher: Muhammad Ahmad*
 
-## Market Recap (yesterday)
+## Market Recap
 - **SPY (S&P 500 ETF)**: **+0.28%** — modest broad-market gain as risk appetite edged up.  
 - **QQQ (Nasdaq-100 ETF)**: **+0.46%** — tech and quality names led the advance.  
 - **DJI (Dow Jones)**: **+0.15%** — small gains, helped by cyclical/industrial names.  
@@ -33,7 +33,7 @@ summary: "Risk-on tone: U.S. indices ticked higher as the dollar softened; commo
 - Soft dollar + equities up = classic risk-on snapshot, but the simultaneous commodity pullback warns that this move is **flow-driven** rather than broad macro reflation.  
 - Watch **real yields** and upcoming data: if yields tick higher, expect renewed pressure on duration-sensitive growth names and precious metals.
 
-## If / Then (short)
+## If / Then
 - **If** real yields fall further (or Fed tones get dovish) → gold/silver likely recover and equities extend gains.  
 - **If** inflation or data surprises to the upside → yields could rise, dollar strengthen, and the current equity advance would likely reverse.
 
